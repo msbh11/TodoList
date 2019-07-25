@@ -1,2 +1,2 @@
 # Todolist
-A laravel todo application where user can edit nad manages  list  .
+A laravel todo application where user can edit and manages  list  .
